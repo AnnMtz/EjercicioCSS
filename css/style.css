@@ -1,0 +1,31 @@
+.navegador {
+  list-style: none;
+  margin-left: 50%;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+#nombres {
+  background-color: darkgrey;
+  color: chocolate;
+}
+
+.informacion {
+  color: blue;
+}
+
+.secondinformation {
+  color: darkred;
+}
+
+#mascotas {
+  border: 1px solid purple;
+}
